@@ -1,0 +1,1 @@
+The retrieval code is almost there, so adding avg calculation in the class file, and adding the same in the service, and for unit test added a new project for Unit test. A few packages were not referenced properly so comment unit test methods
